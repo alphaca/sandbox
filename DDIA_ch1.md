@@ -48,7 +48,6 @@
         - Lesson learnt : Simple model fits to most users, fan-out is good for hotspot users (or celebrities)
         This goes against the desires of many developers: It's not simple, but it's the (only) working solution. 
 - **Performance description**
-
     - What happens to system performance when you increase load parameters while keeping system resources (CPU, memory, network bandwidth, etc.) unchanged?
     - How much do you need to increase resources to maintain performance when load parameters are increased?
     - The issues of throughput and response time are also valid here.
