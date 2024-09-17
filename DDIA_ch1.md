@@ -16,6 +16,7 @@
 > Why should we lump them all together under an umbrella term like data systems? (even though they are quite different?)
 - In system design interviews, many data systems are lumped as **database** (SQL/NoSQL/Kafka). 
 
+<img width="764" alt="Screenshot 2024-09-16 at 6 56 08 PM" src="https://github.com/user-attachments/assets/daab70dc-2522-4a13-9f22-e91f828bbae4">
 
 
 ## Three concerns that are important in most applications:
